@@ -1,4 +1,4 @@
-Enlace al repositorio: https://github.com/DiegoMUNIE/Diego_Municio_Extraordinaria.git
+Enlace al repositorio: https://github.com/DiegoMUNIE/mi_simulador_celeste
 
 # Simulador Celeste
 
